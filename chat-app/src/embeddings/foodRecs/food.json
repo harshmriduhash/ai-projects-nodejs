@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Pizza",
+      "description": "Italy, dough, cheese, tomato, toppings"
+    },
+    {
+      "name": "Burger",
+      "description": "USA, sandwich, beef, bun, patty"
+    },
+    {
+      "name": "Sushi",
+      "description": "Japan, rice, seafood, vinegared, raw fish"
+    },
+    {
+      "name": "Pasta",
+      "description": "Italy, wheat, noodles, tomato, sauce"
+    },
+    {
+      "name": "Tacos",
+      "description": "Mexico, tortilla, meat, beans, cheese"
+    },
+    {
+      "name": "Salad",
+      "description": "Global, vegetables, dressing, healthy, mix"
+    },
+    {
+      "name": "Ice Cream",
+      "description": "Italy, frozen, cream, sweet, dessert"
+    },
+    {
+      "name": "Steak",
+      "description": "USA, beef, grilled, meat, tender"
+    },
+    {
+      "name": "Falafel",
+      "description": "Middle East, chickpeas, fried, pita, vegetarian"
+    },
+    {
+      "name": "Ramen",
+      "description": "Japan, noodles, broth, soup, umami"
+    },
+    {
+      "name": "Croissant",
+      "description": "France, pastry, buttery, flaky, breakfast"
+    },
+    {
+      "name": "Quiche",
+      "description": "France, pie, custard, cheese, savory"
+    },
+    {
+      "name": "Coq au Vin",
+      "description": "France, chicken, wine, mushrooms, braised"
+    },
+    {
+      "name": "Ratatouille",
+      "description": "France, vegetables, tomato, zucchini, stew"
+    },
+    {
+      "name": "Baguette",
+      "description": "France, bread, crispy, staple, loaf"
+    },
+    {
+      "name": "Paella",
+      "description": "Spain, rice, saffron, seafood, chicken"
+    },
+    {
+      "name": "Kimchi",
+      "description": "Korea, fermented, spicy, cabbage, side dish"
+    },
+    {
+      "name": "Biryani",
+      "description": "India, rice, spices, meat, aromatic"
+    },
+    {
+      "name": "Couscous",
+      "description": "North Africa, semolina, steamed, vegetables, chickpeas"
+    },
+    {
+      "name": "Bouillabaisse",
+      "description": "France, fish, stew, seafood, broth"
+    }
+  ]
+  

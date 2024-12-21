@@ -1,0 +1,23 @@
+{
+  "name": "langchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r ts-node/register --env-file=.env src/basicrag/ChromaDB.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/community": "^0.3.18",
+    "@types/node": "^22.10.1",
+    "cheerio": "^1.0.0",
+    "chromadb": "^1.9.4",
+    "langchain": "^0.3.6",
+    "pdf-parse": "^1.1.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
